@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @elveeth
+- 👋 Hi, I’m @elveeth, Software Engineer & Multimedia Specialist.
 - 👀 I’m interested in the outdoors.
 - 🌱 I’m currently learning React.
 - 📫 How to reach me: logan.veith@gmail.com or 503-432-9947
